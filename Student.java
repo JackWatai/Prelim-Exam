@@ -2,9 +2,9 @@
 public class Student {
 
 	private int studentID;
-	int creds;
-	int points;
-	double gpa;
+	private int creds;
+	private int points;
+	private double gpa;
 	
 public void setID(int ID)
 {
